@@ -17,7 +17,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.jlengstorf.corgi-photos-expo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
